@@ -9,6 +9,6 @@ module.exports = [
   },
   {
     id: 3,
-    name: 'Jose',
+    name: 'Josse',
   },
 ]
